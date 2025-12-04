@@ -1,0 +1,1 @@
+uv run main.py yolo assets/crowd.mp4 -o assets/crowd_yolo11x-test.mp4

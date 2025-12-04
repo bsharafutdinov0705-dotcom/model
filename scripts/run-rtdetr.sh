@@ -1,0 +1,1 @@
+uv run main.py rtdetr assets/crowd.mp4 -o assets/crowd_rtdetr-test.mp4
