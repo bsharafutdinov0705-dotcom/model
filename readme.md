@@ -10,7 +10,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <repository-url>
+git clone https://github.com/bsharafutdinov0705-dotcom/model/tree/main
 cd model_comprasion
 ```
 
@@ -108,4 +108,5 @@ ruff format .
 - **YOLO11x** — лучше для локальных и стабильных масок (bounding boxes, трекинг).  
 - **RDETR-L** — лучше для глобальной аналитики сцены (people counting, сцены с дальними объектами).  
 - Выбор архитектуры всегда зависит от задачи и условий обработки (offline/cloud/edge).
+
 
